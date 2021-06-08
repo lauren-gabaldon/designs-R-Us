@@ -1,4 +1,4 @@
-const { Category } = require("../designs-R-Us/models");
+const { Category } = require("../models");
 
 const categoryData = [
   {
